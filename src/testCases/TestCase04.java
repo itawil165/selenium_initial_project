@@ -24,7 +24,7 @@ public class TestCase04 {
         String lastName = "Doe";
         String email = "jonhdoe@gmail.com";
         String message = "Hello World!";
-
+        
         firstNameInput.sendKeys(firstName);
         lastNameInput.sendKeys(lastName);
         emailInput.sendKeys(email);
